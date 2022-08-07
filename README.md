@@ -1,2 +1,6 @@
-# NTP_2-Project
-UGV_MPC project
+NTP_2-Project
+Model Predictive Based Controller for Unmanned Ground Vehicle:
+The increasing day-to-day population leads to busy life schedules and availing more comfortable requirements, which forces to make advanced technical innovations. Considering the present global scenario, the world is rapidly moving towards autonomous vehicles. Whether it is a ground or air vehicle, unmanned vehicles bring revolution to people's lives. This project detailed the introduction of Autonomous vehicles, Model Predictive controllers. A mathematical model for an unmanned ground vehicle called a Hamster has been represented. An Algorithm of the Model Predictive Controller (MPC) is also presented to achieve the car's autonomy. The efficacy of the MPC is illustrated via MATLAB simulation results using a simple car model.
+
+One needs to download the Acado toolkit using this link https://github.com/acado/acado and follow their documentation to setup Acado. Everytime when you start matlab, you have to make clean all at: acado-master\interfaces\matlab>> make clean all (to clean acado). 
+Matlab2tikz file one can download from github, helps to export the figure from matlab to overleaf:- https://github.com/shkumar21/matlab2tikz
